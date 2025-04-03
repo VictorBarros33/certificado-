@@ -1,3 +1,2 @@
-# certificado-
-certificado do curso de programação mobile no app android studio 
+# certificado-DESENVOLVENDO APLICAÇÕES MOBILE COM ANDROID STUDIO
 file:///C:/Users/Usuario/Downloads/Certificado.pdf
